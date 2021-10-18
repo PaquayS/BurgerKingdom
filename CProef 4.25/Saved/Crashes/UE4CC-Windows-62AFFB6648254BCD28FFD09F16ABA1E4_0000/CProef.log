@@ -1,0 +1,1432 @@
+﻿Log file open, 06/23/20 14:31:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CProef
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.095718
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Engine.ini]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.06.23-12.31.49:582][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.06.23-12.31.49:583][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Engine.ini]
+[2020.06.23-12.31.49:584][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Engine.ini]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Engine.ini]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.23-12.31.49:584][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Engine.ini]
+[2020.06.23-12.31.49:584][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Engine.ini]
+[2020.06.23-12.31.49:590][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:590][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.23-12.31.49:590][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.23-12.31.49:590][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:590][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.23-12.31.49:590][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:590][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.23-12.31.49:590][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.23-12.31.49:590][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.23-12.31.49:590][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.23-12.31.49:590][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.23-12.31.49:590][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.23-12.31.49:590][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.23-12.31.49:591][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:591][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.23-12.31.49:592][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.23-12.31.49:592][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.23-12.31.49:592][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.23-12.31.49:596][  0]LogHAL: Display: Platform has ~ 16 GB [17125662720 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.23-12.31.49:596][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.23-12.31.49:596][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.23-12.31.49:596][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.23-12.31.49:597][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Scalability.ini]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.23-12.31.49:598][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Stef/Desktop/CProef/Saved/Config/Windows/Engine.ini]
+[2020.06.23-12.31.49:598][  0]LogInit: Computer: DESKTOP-8C2HF97
+[2020.06.23-12.31.49:598][  0]LogInit: User: Stef
+[2020.06.23-12.31.49:598][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.06.23-12.31.49:598][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.23-12.31.49:598][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.06.23-12.31.49:599][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.23-12.31.49:599][  0]LogMemory: Process Physical Memory: 107.93 MB used, 107.93 MB peak
+[2020.06.23-12.31.49:599][  0]LogMemory: Process Virtual Memory: 103.49 MB used, 103.49 MB peak
+[2020.06.23-12.31.49:599][  0]LogMemory: Physical Memory: 8374.20 MB used,  7958.11 MB free, 16332.30 MB total
+[2020.06.23-12.31.49:599][  0]LogMemory: Virtual Memory: 5140.09 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.06.23-12.31.49:607][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.23-12.31.49:643][  0]LogInit: Using OS detected language (nl-NL).
+[2020.06.23-12.31.49:643][  0]LogInit: Using OS detected locale (nl-NL).
+[2020.06.23-12.31.49:644][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2020.06.23-12.31.49:821][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.23-12.31.49:870][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.23-12.31.49:870][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.23-12.31.50:108][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.23-12.31.50:108][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.06.23-12.31.50:108][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.06.23-12.31.50:108][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.23-12.31.50:200][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2020.06.23-12.31.50:200][  0]LogD3D11RHI:       6052/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.23-12.31.50:203][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.23-12.31.50:203][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.23-12.31.50:203][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.23-12.31.50:214][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.23-12.31.50:215][  0]LogD3D11RHI:     GPU DeviceId: 0x1b83 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.23-12.31.50:215][  0]LogWindows: EnumDisplayDevices:
+[2020.06.23-12.31.50:215][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2020.06.23-12.31.50:215][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2020.06.23-12.31.50:216][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.06.23-12.31.50:216][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2020.06.23-12.31.50:216][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.23-12.31.50:216][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2020.06.23-12.31.50:216][  0]LogD3D11RHI:   Driver Version: 441.66 (internal:26.21.14.4166, unified:441.66)
+[2020.06.23-12.31.50:216][  0]LogD3D11RHI:      Driver Date: 12-6-2019
+[2020.06.23-12.31.50:216][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.06.23-12.31.50:279][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.06.23-12.31.50:279][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.23-12.31.50:304][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.23-12.31.50:790][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.06.23-12.31.50:827][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.06.23-12.31.50:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.06.23-12.31.50:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.06.23-12.31.50:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.23-12.31.50:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.06.23-12.31.50:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.06.23-12.31.50:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.06.23-12.31.50:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.06.23-12.31.50:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.06.23-12.31.50:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.06.23-12.31.50:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.06.23-12.31.50:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.06.23-12.31.50:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.06.23-12.31.50:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.23-12.31.50:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.23-12.31.51:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.23-12.31.51:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.23-12.31.51:017][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.23-12.31.51:024][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.23-12.31.51:063][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (../../../../../../Users/Stef/Desktop/CProef/Intermediate/Shaders/WorkingDirectory/5224/).
+[2020.06.23-12.31.51:064][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Stef/AppData/Local/Temp/UnrealShaderWorkingDir/2284551C4D4EFD5A8380D496DDF1EBE2/'.
+[2020.06.23-12.31.51:064][  0]LogXGEController: Cleaning working directory: C:/Users/Stef/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.23-12.31.51:065][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.23-12.31.51:065][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.23-12.31.51:065][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.23-12.31.51:827][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.23-12.31.51:881][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/Stef/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.23-12.31.51:881][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Stef/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.06.23-12.31.51:881][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Stef/Desktop/CProef/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.23-12.31.51:881][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.23-12.31.51:881][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Stef/Desktop/CProef/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.23-12.31.51:881][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.23-12.31.51:892][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.23-12.31.51:892][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.23-12.31.51:892][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.23-12.31.51:893][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Stef/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.23-12.31.51:893][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.23-12.31.51:893][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.23-12.31.51:920][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.23-12.31.51:923][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.23-12.31.51:924][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.23-12.31.51:994][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2020.06.23-12.31.52:316][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.23-12.31.52:483][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.23-12.31.52:483][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.23-12.31.52:483][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.23-12.31.52:483][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.23-12.31.52:483][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.23-12.31.52:499][  0]LogNetVersion: CProef 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1828924195)
+[2020.06.23-12.31.53:796][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.061282 seconds
+[2020.06.23-12.31.53:807][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.06.23-12.31.53:807][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.06.23-12.31.53:807][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.23-12.31.54:342][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.23-12.31.54:346][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.23-12.31.54:416][  0]SourceControl: Source control is disabled
+[2020.06.23-12.31.54:416][  0]SourceControl: Source control is disabled
+[2020.06.23-12.31.54:418][  0]SourceControl: Source control is disabled
+[2020.06.23-12.31.54:419][  0]SourceControl: Source control is disabled
+[2020.06.23-12.31.54:420][  0]SourceControl: Source control is disabled
+[2020.06.23-12.31.54:548][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.23-12.31.54:564][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.23-12.31.54:564][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.23-12.31.54:666][  0]LogOcInput: OculusInput pre-init called
+[2020.06.23-12.31.54:677][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.06.23-12.31.54:677][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.06.23-12.31.54:756][  0]LogEngine: Initializing Engine...
+[2020.06.23-12.31.54:757][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.23-12.31.54:758][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.23-12.31.55:112][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.23-12.31.55:120][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.23-12.31.55:131][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.23-12.31.55:131][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.23-12.31.55:131][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.23-12.31.55:131][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.23-12.31.55:131][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.23-12.31.55:131][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.23-12.31.55:131][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.23-12.31.55:132][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.23-12.31.55:132][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.23-12.31.55:132][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.23-12.31.55:163][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.23-12.31.55:163][  0]LogAudioMixer: Display: Name: Hoofdtelefoon (2- High Definition Audio Device)
+[2020.06.23-12.31.55:163][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.06.23-12.31.55:163][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.23-12.31.55:163][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.23-12.31.55:163][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.23-12.31.55:163][  0]LogAudioMixer: Display: Channel Order:
+[2020.06.23-12.31.55:163][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.23-12.31.55:163][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.23-12.31.55:187][  0]LogAudioMixer: Display: Using Audio Device Hoofdtelefoon (2- High Definition Audio Device)
+[2020.06.23-12.31.55:193][  0]LogInit: FAudioDevice initialized.
+[2020.06.23-12.31.55:193][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.23-12.31.55:304][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Stef/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.23-12.31.55:312][  0]LogInit: Texture streaming: Enabled
+[2020.06.23-12.31.55:329][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.23-12.31.55:329][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.23-12.31.55:332][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.23-12.31.55:399][  0]LogInit: Transaction tracking system initialized
+[2020.06.23-12.31.55:414][  0]BlueprintLog: New page: Editor Load
+[2020.06.23-12.31.55:457][  0]LocalizationService: Localization service is disabled
+[2020.06.23-12.31.55:814][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stef/Desktop/CProef/Content/' took 0.02s
+[2020.06.23-12.31.55:814][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.23-12.31.55:814][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.23-12.31.56:708][  0]SourceControl: Source control is disabled
+[2020.06.23-12.31.56:708][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Stef/Desktop/CProef/Content/Cproef/Levels/FinalProjectTest01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.23-12.31.56:709][  0]LightingResults: New page: Lighting Build
+[2020.06.23-12.31.56:709][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.23-12.31.56:710][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.23-12.31.56:710][  0]MapCheck: New page: Map Check
+[2020.06.23-12.31.56:710][  0]LightingResults: New page: Lighting Build
+[2020.06.23-12.31.56:746][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.06.23-12.32.01:174][  0]LogAIModule: Creating AISystem for world FinalProjectTest01
+[2020.06.23-12.32.01:228][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.23-12.32.01:281][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.06.23-12.32.01:282][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.23-12.32.01:282][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,231ms to complete.
+[2020.06.23-12.32.01:282][  0]LogFileHelpers: Loading map 'FinalProjectTest01' took 4.575
+[2020.06.23-12.32.01:419][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-12.32.01:427][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-12.32.01:433][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-12.32.01:440][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.23-12.32.01:448][  0]LogCollectionManager: Loaded 0 collections in 0.002332 seconds
+[2020.06.23-12.32.01:463][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stef/Desktop/CProef/Saved/Collections/' took 0.00s
+[2020.06.23-12.32.01:463][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stef/Desktop/CProef/Content/Developers/Stef/Collections/' took 0.00s
+[2020.06.23-12.32.01:463][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stef/Desktop/CProef/Content/Collections/' took 0.00s
+[2020.06.23-12.32.01:463][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 3015 classes and 717 folders.
+[2020.06.23-12.32.01:465][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.23-12.32.01:556][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.23-12.32.01:561][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.06.23-12.32.01:675][  0]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.23-12.32.01:677][  0]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.23-12.32.01:682][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.23-12.32.01:767][  0]LogRenderer: Reallocating scene render targets to support 1728x880 Format 10 NumSamples 1 (Frame:1).
+[2020.06.23-12.32.01:870][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.23-12.32.01:870][  0]LogLoad: (Engine Initialization) Total time: 15.36 seconds
+[2020.06.23-12.32.01:870][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.23-12.32.01:928][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.23-12.32.02:003][  1]LogAssetRegistry: Asset discovery search completed in 10.0108 seconds
+[2020.06.23-12.32.02:007][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.06.23-12.32.25:020][541]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.25:020][541]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.25:082][542]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.25:082][542]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.25:133][543]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.25:133][543]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.25:153][545]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.25:153][545]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:400][680]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:400][680]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:424][681]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:424][681]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:424][681]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:424][681]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:744][712]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:744][712]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:765][713]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:766][713]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:766][713]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.36:766][713]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.37:036][733]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.37:036][733]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.37:060][734]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.37:060][734]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.37:060][734]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.37:060][734]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.39:754][  3]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.39:754][  3]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.39:776][  4]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.39:776][  4]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.39:777][  4]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.39:777][  4]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.32.47:880][848]LogSlate: Took 0.000411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.23-12.32.59:729][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building)
+[2020.06.23-12.33.15:671][469]LogEditorViewport: Clicking on Actor (LMB): BP_AIChar01_C (BP_AIChar01)
+[2020.06.23-12.33.25:876][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Building)
+[2020.06.23-12.34.20:454][119]LogRenderer: Reallocating scene render targets to support 1728x884 Format 10 NumSamples 1 (Frame:9640).
+[2020.06.23-12.34.20:496][120]LogRenderer: Reallocating scene render targets to support 1728x900 Format 10 NumSamples 1 (Frame:9642).
+[2020.06.23-12.34.20:540][121]LogRenderer: Reallocating scene render targets to support 1728x936 Format 10 NumSamples 1 (Frame:9644).
+[2020.06.23-12.34.20:581][122]LogRenderer: Reallocating scene render targets to support 1728x960 Format 10 NumSamples 1 (Frame:9646).
+[2020.06.23-12.34.20:626][123]LogRenderer: Reallocating scene render targets to support 1728x976 Format 10 NumSamples 1 (Frame:9648).
+[2020.06.23-12.34.20:669][124]LogRenderer: Reallocating scene render targets to support 1728x992 Format 10 NumSamples 1 (Frame:9650).
+[2020.06.23-12.34.20:709][125]LogRenderer: Reallocating scene render targets to support 1728x1016 Format 10 NumSamples 1 (Frame:9652).
+[2020.06.23-12.34.20:749][126]LogRenderer: Reallocating scene render targets to support 1728x1048 Format 10 NumSamples 1 (Frame:9654).
+[2020.06.23-12.34.20:789][127]LogRenderer: Reallocating scene render targets to support 1728x1072 Format 10 NumSamples 1 (Frame:9656).
+[2020.06.23-12.34.20:830][128]LogRenderer: Reallocating scene render targets to support 1728x1088 Format 10 NumSamples 1 (Frame:9658).
+[2020.06.23-12.34.20:873][129]LogRenderer: Reallocating scene render targets to support 1728x1096 Format 10 NumSamples 1 (Frame:9660).
+[2020.06.23-12.34.20:909][130]LogRenderer: Reallocating scene render targets to support 1728x1104 Format 10 NumSamples 1 (Frame:9662).
+[2020.06.23-12.34.20:948][131]LogRenderer: Reallocating scene render targets to support 1728x1120 Format 10 NumSamples 1 (Frame:9664).
+[2020.06.23-12.34.20:990][132]LogRenderer: Reallocating scene render targets to support 1728x1128 Format 10 NumSamples 1 (Frame:9666).
+[2020.06.23-12.34.21:053][134]LogRenderer: Reallocating scene render targets to support 1728x1132 Format 10 NumSamples 1 (Frame:9670).
+[2020.06.23-12.34.22:308][271]LogRenderer: Reallocating scene render targets to support 1752x1132 Format 10 NumSamples 1 (Frame:9785).
+[2020.06.23-12.34.22:351][272]LogRenderer: Reallocating scene render targets to support 1772x1132 Format 10 NumSamples 1 (Frame:9787).
+[2020.06.23-12.34.22:402][273]LogRenderer: Reallocating scene render targets to support 1796x1132 Format 10 NumSamples 1 (Frame:9789).
+[2020.06.23-12.34.22:443][274]LogRenderer: Reallocating scene render targets to support 1836x1132 Format 10 NumSamples 1 (Frame:9791).
+[2020.06.23-12.34.22:484][275]LogRenderer: Reallocating scene render targets to support 1864x1132 Format 10 NumSamples 1 (Frame:9793).
+[2020.06.23-12.34.22:528][276]LogRenderer: Reallocating scene render targets to support 1880x1132 Format 10 NumSamples 1 (Frame:9795).
+[2020.06.23-12.34.22:568][277]LogRenderer: Reallocating scene render targets to support 1896x1132 Format 10 NumSamples 1 (Frame:9797).
+[2020.06.23-12.34.22:610][278]LogRenderer: Reallocating scene render targets to support 1908x1132 Format 10 NumSamples 1 (Frame:9799).
+[2020.06.23-12.34.22:655][279]LogRenderer: Reallocating scene render targets to support 1916x1132 Format 10 NumSamples 1 (Frame:9801).
+[2020.06.23-12.34.22:696][280]LogRenderer: Reallocating scene render targets to support 1924x1132 Format 10 NumSamples 1 (Frame:9803).
+[2020.06.23-12.34.22:737][281]LogRenderer: Reallocating scene render targets to support 1928x1132 Format 10 NumSamples 1 (Frame:9805).
+[2020.06.23-12.34.22:779][282]LogRenderer: Reallocating scene render targets to support 1940x1132 Format 10 NumSamples 1 (Frame:9807).
+[2020.06.23-12.34.22:820][283]LogRenderer: Reallocating scene render targets to support 1948x1132 Format 10 NumSamples 1 (Frame:9809).
+[2020.06.23-12.34.22:865][284]LogRenderer: Reallocating scene render targets to support 1956x1132 Format 10 NumSamples 1 (Frame:9811).
+[2020.06.23-12.34.22:908][285]LogRenderer: Reallocating scene render targets to support 1964x1132 Format 10 NumSamples 1 (Frame:9813).
+[2020.06.23-12.34.22:950][286]LogRenderer: Reallocating scene render targets to support 1972x1132 Format 10 NumSamples 1 (Frame:9815).
+[2020.06.23-12.34.22:992][287]LogRenderer: Reallocating scene render targets to support 1976x1132 Format 10 NumSamples 1 (Frame:9817).
+[2020.06.23-12.34.23:038][288]LogRenderer: Reallocating scene render targets to support 1980x1132 Format 10 NumSamples 1 (Frame:9819).
+[2020.06.23-12.34.55:866][281]LogEditorViewport: Clicking on Actor (LMB): BP_AIChar01_C (BP_AIChar01)
+[2020.06.23-12.35.13:451][847]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.23-12.35.13:471][847]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Cproef/Models/AI/AI_Monocle/AI_Monocle_PoliceHat.AI_Monocle_PoliceHat
+[2020.06.23-12.35.13:483][847]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.23-12.35.13:663][847]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.35.13:671][847]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.06.23-12.35.13:741][847]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.23-12.35.14:108][848]LogRenderer: Reallocating scene render targets to support 1980x1244 Format 10 NumSamples 1 (Frame:1).
+[2020.06.23-12.37.10:540][384]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:540][384]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:540][384]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:541][384]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:568][386]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:568][386]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:568][386]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:568][386]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:606][389]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:606][389]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:606][389]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:606][389]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:639][392]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:639][392]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:640][392]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:640][392]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:672][395]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:672][395]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:672][395]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:672][395]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:707][398]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:707][398]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:707][398]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:707][398]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:738][401]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:738][401]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:738][401]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:738][401]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:772][404]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:772][404]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:772][404]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:772][404]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:808][407]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:808][407]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:808][407]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:808][407]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:871][410]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:871][410]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:871][410]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:871][410]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:902][413]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:902][413]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:902][413]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:902][413]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:933][416]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:933][416]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:933][416]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:933][416]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:963][419]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:963][419]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:963][419]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:963][419]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:995][422]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:995][422]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:995][422]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.10:995][422]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:031][425]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:031][425]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:031][425]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:031][425]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:062][428]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:062][428]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:062][428]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:062][428]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:093][431]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:093][431]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:093][431]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:093][431]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:122][434]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:123][434]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:123][434]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:123][434]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:155][437]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:155][437]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:155][437]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:156][437]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:187][440]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:187][440]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:188][440]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:188][440]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:218][443]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:218][443]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:218][443]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:218][443]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:253][446]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:253][446]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:253][446]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:253][446]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:284][449]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:284][449]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:284][449]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:284][449]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:320][452]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:320][452]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:320][452]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:320][452]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:352][455]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:352][455]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:352][455]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:352][455]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:384][458]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:384][458]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:384][458]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:384][458]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:416][461]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:416][461]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:416][461]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:416][461]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:448][464]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:448][464]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:448][464]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:448][464]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:481][467]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:481][467]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:481][467]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:481][467]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:513][470]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:513][470]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:513][470]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:513][470]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:543][473]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:543][473]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:543][473]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:543][473]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:576][476]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:576][476]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:577][476]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:577][476]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:608][479]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:608][479]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:608][479]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:608][479]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:639][482]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:639][482]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:639][482]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:639][482]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:672][485]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:672][485]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:673][485]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:673][485]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:705][488]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:705][488]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:705][488]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:705][488]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:738][491]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:738][491]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:738][491]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:738][491]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:771][494]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:771][494]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:771][494]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:771][494]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:804][497]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:804][497]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:804][497]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:804][497]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:835][500]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:835][500]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:836][500]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:836][500]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:869][503]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:869][503]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:869][503]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:869][503]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:904][506]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:904][506]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:904][506]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:904][506]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:935][509]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:936][509]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:936][509]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:936][509]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:970][512]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:970][512]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:970][512]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.11:970][512]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:002][515]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:002][515]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:002][515]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:003][515]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:046][518]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:046][518]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:047][518]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:047][518]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:084][521]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:084][521]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:085][521]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:085][521]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:121][524]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:122][524]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:122][524]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:122][524]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:156][527]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:156][527]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:157][527]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:157][527]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:194][530]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:195][530]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:195][530]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:195][530]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:235][533]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:235][533]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:235][533]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:235][533]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:269][536]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:269][536]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:269][536]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:269][536]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:307][539]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:307][539]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:307][539]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:307][539]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:340][542]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:340][542]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:340][542]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:340][542]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:367][545]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:367][545]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:367][545]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:367][545]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:401][548]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:401][548]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:401][548]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:401][548]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:432][551]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:432][551]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:432][551]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:432][551]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:465][554]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:465][554]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:465][554]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:465][554]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:496][557]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:496][557]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:496][557]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:496][557]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:526][560]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:526][560]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:526][560]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:526][560]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:556][563]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:556][563]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:556][563]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:556][563]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:588][566]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:588][566]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:588][566]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:588][566]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:621][569]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:621][569]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:621][569]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:621][569]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:654][572]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:654][572]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:654][572]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:654][572]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:687][575]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:687][575]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:687][575]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:687][575]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:719][578]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:719][578]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:719][578]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:719][578]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:752][581]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:752][581]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:752][581]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:752][581]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:785][584]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:785][584]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:785][584]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:785][584]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:818][587]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:818][587]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:818][587]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:818][587]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:848][590]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:848][590]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:848][590]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:848][590]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:881][593]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:881][593]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:881][593]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:881][593]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:914][596]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:914][596]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:914][596]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:914][596]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:949][599]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:949][599]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:949][599]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:949][599]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:979][602]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:979][602]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:979][602]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.12:979][602]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:121][618]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:121][618]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:121][618]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:121][618]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:149][621]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:149][621]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:149][621]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:150][621]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:182][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:182][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:183][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.13:183][624]LogSkeletalMesh: Error: Material with missing usage flag was applied to skeletal mesh /Game/Cproef/Models/AI/AI_SunGlasses/AI4/AI_SunGlasses_PoliceHat.AI_SunGlasses_PoliceHat
+[2020.06.23-12.37.14:491][762]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Cproef/Models/AI/AI_SunGlasses/AI5/AI_Sunglasses_SunHat.AI_Sunglasses_SunHat
+[2020.06.23-12.37.14:496][762]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.37.14:541][762]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.23-12.37.17:141][978]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Cproef/test/BS_AI.BS_AI
+[2020.06.23-12.37.17:151][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.37.17:230][978]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.23-12.37.17:586][978]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.06.23-12.37.33:506][114]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.06.23-12.37.33:506][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.23-12.37.36:893][373]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.06.23-12.37.36:893][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.23-12.38.41:956][182]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Cproef/Models/AI/AI2/AI_Glasses_Hat1.AI_Glasses_Hat1
+[2020.06.23-12.38.41:960][182]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.38.42:010][182]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.06.23-12.39.00:289][322]LogMaterial: Display: Material /Game/Cproef/Textures/Furniture/C/ChairBack.ChairBack needed to have new flag set bUsedWithSkeletalMesh !
+[2020.06.23-12.39.00:298][322]LogMaterial: Display: Missing cached shader map for material ChairBack, compiling. 
+[2020.06.23-12.39.00:448][322]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2020.06.23-12.39.00:448][322]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2020.06.23-12.39.00:448][322]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2020.06.23-12.39.00:448][322]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2020.06.23-12.39.00:448][322]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2020.06.23-12.39.00:448][322]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2020.06.23-12.39.00:448][322]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.06.23-12.39.03:256][410]LogMaterial: Display: Material /Game/Cproef/Textures/Furniture/C/ChairFabric.ChairFabric needed to have new flag set bUsedWithSkeletalMesh !
+[2020.06.23-12.39.03:267][410]LogMaterial: Display: Missing cached shader map for material ChairFabric, compiling. 
+[2020.06.23-12.39.03:313][410]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 48
+[2020.06.23-12.39.03:484][411]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 41
+[2020.06.23-12.39.04:175][435]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2020.06.23-12.39.04:419][443]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 30
+[2020.06.23-12.39.04:592][449]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.06.23-12.39.04:865][456]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2020.06.23-12.39.05:111][459]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2020.06.23-12.39.05:342][461]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.06.23-12.39.06:583][503]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.06.23-12.39.06:690][507]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.06.23-12.39.06:751][509]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.06.23-12.39.06:808][511]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.23-12.39.07:219][515]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.06.23-12.39.07:435][522]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.06.23-12.39.07:463][523]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.23-12.39.07:563][527]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.06.23-12.39.07:661][531]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.06.23-12.39.07:752][533]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.06.23-12.39.14:993][954]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.06.23-12.39.14:993][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.23-12.39.17:093][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.06.23-12.39.18:761][ 66]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.23-12.39.18:883][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.06.23-12.42.02:233][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.06.23-12.42.02:772][588]LogSavePackage: Moving '../../../../../../Users/Stef/Desktop/CProef/Saved/FinalProjectTest01_Auto15D10DC794B745089FD5F418520E2FFDD.tmp' to '../../../../../../Users/Stef/Desktop/CProef/Saved/Autosaves/Game/Cproef/Levels/FinalProjectTest01_Auto1.umap'
+[2020.06.23-12.42.02:777][588]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cproef/Levels/FinalProjectTest01' took 0.578
+[2020.06.23-12.42.02:777][588]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.578
+[2020.06.23-12.42.02:777][588]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cproef/Textures/Furniture/C/ChairBack] ([1] browsable assets)...
+[2020.06.23-12.42.02:801][588]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Cproef/Textures/Furniture/C/ChairBack.ChairBack]
+[2020.06.23-12.42.02:801][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cproef/Textures/Furniture/C/ChairBack]
+[2020.06.23-12.42.02:883][588]LogSavePackage: Moving '../../../../../../Users/Stef/Desktop/CProef/Saved/ChairBack_Auto1412ACAF845B2C2364BE48FA54CF8D51D.tmp' to '../../../../../../Users/Stef/Desktop/CProef/Saved/Autosaves/Game/Cproef/Textures/Furniture/C/ChairBack_Auto1.uasset'
+[2020.06.23-12.42.02:886][588]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cproef/Textures/Furniture/C/ChairFabric] ([1] browsable assets)...
+[2020.06.23-12.42.02:903][588]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Cproef/Textures/Furniture/C/ChairFabric.ChairFabric]
+[2020.06.23-12.42.02:903][588]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cproef/Textures/Furniture/C/ChairFabric]
+[2020.06.23-12.42.02:986][588]LogSavePackage: Moving '../../../../../../Users/Stef/Desktop/CProef/Saved/ChairFabric_Auto1C03DE0D347F522D762B275B313BAA7C2.tmp' to '../../../../../../Users/Stef/Desktop/CProef/Saved/Autosaves/Game/Cproef/Textures/Furniture/C/ChairFabric_Auto1.uasset'
+[2020.06.23-12.42.02:989][588]LogFileHelpers: Auto-saving content packages took 0.212
+[2020.06.23-12.44.14:034][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CashReg_Cash_Register)
+[2020.06.23-12.44.18:309][653]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Cproef/Models/CashReg/CRTop.CRTop
+[2020.06.23-12.44.18:314][653]LogMaterial: Display: Missing cached shader map for material CRTop, compiling. 
+[2020.06.23-12.44.18:423][653]LogMaterial: Display: Missing cached shader map for material CRTop, compiling. 
+[2020.06.23-12.44.18:440][653]LogMaterial: Display: Missing cached shader map for material CRTop, compiling. 
+[2020.06.23-12.44.18:460][653]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.06.23-12.44.18:460][653]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.06.23-12.44.18:460][653]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.06.23-12.44.18:460][653]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.06.23-12.44.18:460][653]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.06.23-12.44.18:460][653]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.06.23-12.44.18:460][653]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.06.23-12.44.18:460][653]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.06.23-12.44.18:461][653]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.06.23-12.44.18:519][653]LogSlate: Took 0.001011 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.23-12.44.19:311][678]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.06.23-12.44.19:536][688]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.06.23-12.44.19:557][689]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.06.23-12.44.19:603][690]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.06.23-12.44.19:603][690]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.06.23-12.44.19:627][691]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.06.23-12.44.19:693][694]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.06.23-12.44.20:194][715]MaterialEditorStats: Base pass shader: 120 instructions
+[2020.06.23-12.44.20:194][715]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.06.23-12.44.20:194][715]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2020.06.23-12.44.20:194][715]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.06.23-12.44.20:194][715]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.23-12.44.23:346][955]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.06.23-12.44.23:346][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.23-12.44.38:525][939]LogActorFactory: Actor Factory created Cube
+[2020.06.23-12.44.39:456][985]LogActorFactory: Actor Factory created Cube
+[2020.06.23-12.44.57:633][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_0
+[2020.06.23-12.44.57:634][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_1
+[2020.06.23-12.44.57:634][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_2
+[2020.06.23-12.44.57:635][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_3
+[2020.06.23-12.44.57:635][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_4
+[2020.06.23-12.44.57:635][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_5
+[2020.06.23-12.44.57:636][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_6
+[2020.06.23-12.44.57:636][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_7
+[2020.06.23-12.44.57:637][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_8
+[2020.06.23-12.44.57:637][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_9
+[2020.06.23-12.44.57:638][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_*
+[2020.06.23-12.44.57:638][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_+
+[2020.06.23-12.44.57:639][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_-
+[2020.06.23-12.44.57:639][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad__
+[2020.06.23-12.44.57:640][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad___1
+[2020.06.23-12.44.57:640][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_Enter
+[2020.06.23-12.44.57:641][139]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_reset
+[2020.06.23-12.44.57:641][139]LogActorFactory: Actor Factory created CasgRegKeys_Order_1
+[2020.06.23-12.44.57:642][139]LogActorFactory: Actor Factory created CasgRegKeys_Order_2
+[2020.06.23-12.44.57:642][139]LogActorFactory: Actor Factory created CasgRegKeys_Order3
+[2020.06.23-12.44.57:643][139]LogActorFactory: Actor Factory created CasgRegKeys_Order_005
+[2020.06.23-12.44.57:643][139]LogActorFactory: Actor Factory created CashReg_Cash_Register
+[2020.06.23-12.44.57:644][139]LogActorFactory: Actor Factory created CashRegDrawer_CashStorage
+[2020.06.23-12.44.58:637][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_0
+[2020.06.23-12.44.58:653][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_1
+[2020.06.23-12.44.58:668][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_2
+[2020.06.23-12.44.58:683][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_3
+[2020.06.23-12.44.58:699][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_4
+[2020.06.23-12.44.58:713][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_5
+[2020.06.23-12.44.58:728][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_6
+[2020.06.23-12.44.58:743][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_7
+[2020.06.23-12.44.58:757][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_8
+[2020.06.23-12.44.58:773][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_9
+[2020.06.23-12.44.58:790][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_*
+[2020.06.23-12.44.58:806][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_+
+[2020.06.23-12.44.58:822][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_-
+[2020.06.23-12.44.58:838][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad__
+[2020.06.23-12.44.58:856][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad___1
+[2020.06.23-12.44.58:872][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_Enter
+[2020.06.23-12.44.58:889][159]LogActorFactory: Actor Factory created CasgRegKeys_Numpad_reset
+[2020.06.23-12.44.58:906][159]LogActorFactory: Actor Factory created CasgRegKeys_Order_1
+[2020.06.23-12.44.58:924][159]LogActorFactory: Actor Factory created CasgRegKeys_Order_2
+[2020.06.23-12.44.58:942][159]LogActorFactory: Actor Factory created CasgRegKeys_Order3
+[2020.06.23-12.44.58:959][159]LogActorFactory: Actor Factory created CasgRegKeys_Order_005
+[2020.06.23-12.44.58:977][159]LogActorFactory: Actor Factory created CashReg_Cash_Register
+[2020.06.23-12.44.58:993][159]LogActorFactory: Actor Factory created CashRegDrawer_CashStorage
+[2020.06.23-12.45.01:448][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.06.23-12.45.18:370][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.06.23-12.45.19:237][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CashReg_Cash_Register2)
+[2020.06.23-12.45.30:807][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CashRegDrawer_CashStorage)
+[2020.06.23-12.46.02:764][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CashReg_Cash_Register2)
+[2020.06.23-12.46.07:241][820]Cmd: DELETE
+[2020.06.23-12.46.07:241][820]Cmd: ACTOR DELETE
+[2020.06.23-12.46.07:249][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:249][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:249][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:249][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:250][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:250][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:250][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:250][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:250][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:251][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:251][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:251][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:251][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:252][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:252][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:252][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:252][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:252][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:253][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:253][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:253][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:253][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:254][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.46.07:292][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.06.23-12.46.07:299][820]LogEditorActor: Deleted 23 Actors (0.058 secs)
+[2020.06.23-12.46.17:456][526]LogActorFactory: Actor Factory created PO
+[2020.06.23-12.46.19:871][676]LogActorFactory: Actor Factory created PO
+[2020.06.23-12.46.21:107][766]Cmd: TRANSACTION UNDO
+[2020.06.23-12.46.21:107][766]LogEditorTransaction: Undo Create Actors
+[2020.06.23-12.46.21:303][766]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.46.21:305][766]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.46.21:306][766]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.46.23:735][905]LogActorFactory: Actor Factory created PO
+[2020.06.23-12.46.23:736][905]LogActorFactory: Actor Factory created POD
+[2020.06.23-12.46.23:737][905]LogActorFactory: Actor Factory created POH1
+[2020.06.23-12.46.23:737][905]LogActorFactory: Actor Factory created POH2
+[2020.06.23-12.46.24:550][929]LogActorFactory: Actor Factory created PO
+[2020.06.23-12.46.24:564][929]LogActorFactory: Actor Factory created POD
+[2020.06.23-12.46.24:579][929]LogActorFactory: Actor Factory created POH1
+[2020.06.23-12.46.24:593][929]LogActorFactory: Actor Factory created POH2
+[2020.06.23-12.46.25:358][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (POD)
+[2020.06.23-12.46.35:444][744]Cmd: TRANSACTION UNDO
+[2020.06.23-12.46.35:445][744]LogEditorTransaction: Undo Rotate Actors
+[2020.06.23-12.46.35:634][744]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.46.35:635][744]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.46.35:635][744]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.46.35:991][753]Cmd: TRANSACTION UNDO
+[2020.06.23-12.46.35:991][753]LogEditorTransaction: Undo Rotate Actors
+[2020.06.23-12.46.36:209][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.46.36:210][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.46.36:211][753]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.47.16:704][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PO2)
+[2020.06.23-12.47.36:381][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.06.23-12.47.49:435][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.06.23-12.47.55:930][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.06.23-12.47.56:648][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.06.23-12.48.00:024][651]Cmd: TRANSACTION UNDO
+[2020.06.23-12.48.00:024][651]LogEditorTransaction: Undo Move Actors
+[2020.06.23-12.48.00:239][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.48.00:240][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.48.00:241][651]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.48.04:897][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.06.23-12.48.16:823][804]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube2)
+[2020.06.23-12.48.17:170][823]Cmd: TRANSACTION UNDO
+[2020.06.23-12.48.17:170][823]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.06.23-12.48.17:403][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.48.17:404][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.48.17:405][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.48.19:331][938]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.06.23-12.48.22:863][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (POD2)
+[2020.06.23-12.48.33:094][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (POD)
+[2020.06.23-12.48.37:700][298]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.06.23-12.48.59:302][888]Cmd: DELETE
+[2020.06.23-12.48.59:302][888]Cmd: ACTOR DELETE
+[2020.06.23-12.48.59:309][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.48.59:309][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.48.59:309][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.48.59:309][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.48.59:309][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.48.59:346][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.06.23-12.48.59:347][888]LogEditorActor: Deleted 5 Actors (0.044 secs)
+[2020.06.23-12.49.04:299][231]LogActorFactory: Actor Factory created Stove
+[2020.06.23-12.49.04:299][231]LogActorFactory: Actor Factory created StoveButtons_SB1
+[2020.06.23-12.49.04:300][231]LogActorFactory: Actor Factory created StoveButtons_SB2
+[2020.06.23-12.49.04:300][231]LogActorFactory: Actor Factory created StoveButtons_SB3
+[2020.06.23-12.49.04:301][231]LogActorFactory: Actor Factory created StoveButtons_StoveButtons
+[2020.06.23-12.49.06:218][343]LogActorFactory: Actor Factory created Stove
+[2020.06.23-12.49.06:233][343]LogActorFactory: Actor Factory created StoveButtons_SB1
+[2020.06.23-12.49.06:249][343]LogActorFactory: Actor Factory created StoveButtons_SB2
+[2020.06.23-12.49.06:265][343]LogActorFactory: Actor Factory created StoveButtons_SB3
+[2020.06.23-12.49.06:281][343]LogActorFactory: Actor Factory created StoveButtons_StoveButtons
+[2020.06.23-12.49.11:648][682]Cmd: TRANSACTION UNDO
+[2020.06.23-12.49.11:648][682]LogEditorTransaction: Undo Move Actors
+[2020.06.23-12.49.11:860][682]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.49.11:861][682]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.49.11:862][682]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.06.23-12.49.19:106][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2020.06.23-12.49.20:244][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2020.06.23-12.49.21:580][339]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.06.23-12.49.46:242][349]Cmd: DELETE
+[2020.06.23-12.49.46:242][349]Cmd: ACTOR DELETE
+[2020.06.23-12.49.46:248][349]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.49.46:249][349]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.49.46:249][349]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.49.46:249][349]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.49.46:249][349]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.49.46:285][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.06.23-12.49.46:286][349]LogEditorActor: Deleted 5 Actors (0.044 secs)
+[2020.06.23-12.49.49:371][568]LogActorFactory: Actor Factory created Toaster
+[2020.06.23-12.49.50:954][657]LogActorFactory: Actor Factory created Toaster
+[2020.06.23-12.49.59:351][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Toaster2)
+[2020.06.23-12.50.37:700][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Toaster2)
+[2020.06.23-12.50.38:887][316]Cmd: DELETE
+[2020.06.23-12.50.38:887][316]Cmd: ACTOR DELETE
+[2020.06.23-12.50.38:893][316]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.50.38:927][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.06.23-12.50.38:928][316]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.06.23-12.50.57:520][770]LogActorFactory: Actor Factory created BBBun
+[2020.06.23-12.50.58:322][816]LogActorFactory: Actor Factory created BBBun
+[2020.06.23-12.50.59:520][882]LogActorFactory: Actor Factory created BCheese
+[2020.06.23-12.51.06:939][345]LogActorFactory: Actor Factory created BCheese
+[2020.06.23-12.51.10:163][514]LogActorFactory: Actor Factory created BMeat
+[2020.06.23-12.51.14:436][783]LogActorFactory: Actor Factory created BMeat
+[2020.06.23-12.51.16:906][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BBBun)
+[2020.06.23-12.51.17:946][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BMeat)
+[2020.06.23-12.51.21:086][240]LogActorFactory: Actor Factory created BCheese
+[2020.06.23-12.51.22:718][331]LogActorFactory: Actor Factory created BCheese
+[2020.06.23-12.51.24:089][408]LogActorFactory: Actor Factory created BOnion
+[2020.06.23-12.51.25:237][460]LogActorFactory: Actor Factory created BOnion
+[2020.06.23-12.51.26:439][525]LogActorFactory: Actor Factory created BTomato
+[2020.06.23-12.51.29:102][687]LogActorFactory: Actor Factory created BTomato
+[2020.06.23-12.51.34:322][ 48]LogActorFactory: Actor Factory created BurgerBBun
+[2020.06.23-12.51.42:212][539]LogActorFactory: Actor Factory created BTBun
+[2020.06.23-12.51.44:328][667]LogActorFactory: Actor Factory created BTBun
+[2020.06.23-12.51.47:036][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BBBun)
+[2020.06.23-12.51.59:104][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BBBun)
+[2020.06.23-12.52.13:338][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BMeat)
+[2020.06.23-12.52.19:507][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BCheese)
+[2020.06.23-12.52.22:388][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BOnion)
+[2020.06.23-12.52.35:930][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BTomato)
+[2020.06.23-12.52.42:729][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BTBun)
+[2020.06.23-12.53.41:025][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.06.23-12.53.41:540][447]LogSavePackage: Moving '../../../../../../Users/Stef/Desktop/CProef/Saved/FinalProjectTest01_Auto2AFFDEA3F417B9AF2797895AADB4ACC00.tmp' to '../../../../../../Users/Stef/Desktop/CProef/Saved/Autosaves/Game/Cproef/Levels/FinalProjectTest01_Auto2.umap'
+[2020.06.23-12.53.41:544][447]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cproef/Levels/FinalProjectTest01' took 0.555
+[2020.06.23-12.53.41:544][447]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.555
+[2020.06.23-12.57.27:975][174]LogActorFactory: Actor Factory created Table
+[2020.06.23-12.57.28:896][234]LogActorFactory: Actor Factory created Table
+[2020.06.23-12.57.59:350][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.06.23-12.58.00:200][165]Cmd: DELETE
+[2020.06.23-12.58.00:200][165]Cmd: ACTOR DELETE
+[2020.06.23-12.58.00:205][165]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.58.00:242][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.06.23-12.58.00:244][165]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.06.23-12.58.02:841][319]LogActorFactory: Actor Factory created HighTable
+[2020.06.23-12.58.03:509][352]LogActorFactory: Actor Factory created HighTable
+[2020.06.23-12.58.04:674][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighTable6)
+[2020.06.23-12.58.26:440][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighTable6)
+[2020.06.23-12.58.45:161][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighTable6)
+[2020.06.23-12.58.46:416][613]Cmd: DELETE
+[2020.06.23-12.58.46:416][613]Cmd: ACTOR DELETE
+[2020.06.23-12.58.46:422][613]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.58.46:457][613]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.06.23-12.58.46:460][613]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.06.23-12.58.48:877][767]LogActorFactory: Actor Factory created HighChair
+[2020.06.23-12.58.50:422][861]LogActorFactory: Actor Factory created HighChair
+[2020.06.23-12.59.10:162][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HighChair6)
+[2020.06.23-12.59.10:964][797]Cmd: DELETE
+[2020.06.23-12.59.10:964][797]Cmd: ACTOR DELETE
+[2020.06.23-12.59.10:969][797]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.59.11:005][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.06.23-12.59.11:007][797]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.06.23-12.59.12:369][881]LogActorFactory: Actor Factory created Chair1
+[2020.06.23-12.59.13:293][930]LogActorFactory: Actor Factory created Chair1
+[2020.06.23-12.59.29:870][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair1)
+[2020.06.23-12.59.30:604][731]Cmd: DELETE
+[2020.06.23-12.59.30:604][731]Cmd: ACTOR DELETE
+[2020.06.23-12.59.30:609][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.59.30:645][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.06.23-12.59.30:646][731]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.06.23-12.59.33:112][880]LogActorFactory: Actor Factory created WallChair
+[2020.06.23-12.59.35:095][  0]LogActorFactory: Actor Factory created WallChair
+[2020.06.23-12.59.52:898][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallChair11)
+[2020.06.23-12.59.53:620][724]Cmd: DELETE
+[2020.06.23-12.59.53:620][724]Cmd: ACTOR DELETE
+[2020.06.23-12.59.53:626][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-12.59.53:662][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.06.23-12.59.53:663][724]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.06.23-12.59.54:903][800]LogActorFactory: Actor Factory created WCCorner
+[2020.06.23-12.59.56:016][860]LogActorFactory: Actor Factory created WCCorner
+[2020.06.23-13.00.18:122][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WCCorner2)
+[2020.06.23-13.00.18:628][857]Cmd: DELETE
+[2020.06.23-13.00.18:628][857]Cmd: ACTOR DELETE
+[2020.06.23-13.00.18:634][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.23-13.00.18:671][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.06.23-13.00.18:672][857]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.06.23-13.03.41:726][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.06.23-13.03.42:352][191]LogSavePackage: Moving '../../../../../../Users/Stef/Desktop/CProef/Saved/FinalProjectTest01_Auto368B596C841B26F4D1BBA7594E192A583.tmp' to '../../../../../../Users/Stef/Desktop/CProef/Saved/Autosaves/Game/Cproef/Levels/FinalProjectTest01_Auto3.umap'
+[2020.06.23-13.03.42:357][191]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Cproef/Levels/FinalProjectTest01' took 0.672
+[2020.06.23-13.03.42:357][191]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.672
